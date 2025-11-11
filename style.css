@@ -1,0 +1,72 @@
+.headding{
+    font-size: 100px;
+    font-family:"Roboto";
+    
+}
+
+
+
+.chatbot-img{
+    width: 150px;
+    height: 150px;
+}
+
+.user-img{
+    width: 150px;
+    height: 150px;
+   
+}
+
+.chat-container{
+    padding: 20px;
+}
+
+.msg-to-chatbot-container{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.msg-to-chatbot-container{
+    text-align: right;
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
+
+.msg-to-chatbot{
+  color:white;
+  background-color:rgb(91, 40, 67);
+  font-family:Roboto;
+  font-weight:900;
+  border-radius:20px;
+  padding:10px;
+}
+
+.msg-from-chatbot-container{
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 15px;
+   
+}
+
+.msg-from-chatbot{
+
+  color: black;
+  background-color: #f66504;
+  font-family: Roboto;
+  font-weight: 900;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.send-btn{
+   
+    margin-left: 10px;
+    margin-bottom: 30px;
+    padding: 10px;
+}
+
+.userInput {
+    margin-left: 10px;
+    margin-bottom: 30px;
+    padding: 10px;
+}
